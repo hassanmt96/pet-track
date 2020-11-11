@@ -12,6 +12,12 @@ const PetDetailList = props =>
     </dl>
   </>
 ;
+// PetDetailList.defaultProps = {
+//   pet: {
+//     PetType: {},
+//   },
+// };
+
 
 
 export default PetDetailList;
